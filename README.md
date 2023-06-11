@@ -4,16 +4,16 @@ OSCP攻略用のメモ
 
 # 便利リンク
 ## 攻撃方法
-https://book.hacktricks.xyz/welcome/readme
-https://gtfobins.github.io/
-https://github.com/swisskyrepo/PayloadsAllTheThings
-https://pentestmonkey.net/
+[hacktricks](https://book.hacktricks.xyz/welcome/readme)
+[gtfobins](https://gtfobins.github.io/)
+[PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+[pentestmonkey](https://pentestmonkey.net/)
 
 ## レポート作成
-https://github.com/noraj/OSCP-Exam-Report-Template-Markdown
+[OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
 
 ## 自動列挙
-https://github.com/Tib3rius/AutoRecon
+[AutoRecon](https://github.com/Tib3rius/AutoRecon)
 
 
 
